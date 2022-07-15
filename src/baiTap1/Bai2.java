@@ -58,7 +58,7 @@ public class Bai2 {
                     a++;
                 }
             }
-            System.out.println(s2 + " : " + a);
+            System.out.println(s2 + " : " + a + " lần xuất hiện");
         }
     }
 }
